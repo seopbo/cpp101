@@ -1,3 +1,4 @@
+// function example
 #include <iostream>
 #include "function.h"
 
